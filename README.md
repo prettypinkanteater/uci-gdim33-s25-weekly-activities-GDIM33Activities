@@ -1,10 +1,16 @@
-# GDIM 33 In-Class Activities
+﻿# GDIM 33 In-Class Activities
 ## W1
 ### Activity 1
-Put your inspo board link here. Do NOT leave a bare URL. REMOVE ALL INSTRUCTIONAL TEXT.
+[Inspo Board](https://www.pinterest.com/cordonxrose/gdim33inspo/)
 
-1. Put your activity 1 answers here.
-2. Please keep the proper list format.
+1. The aesthetics I'm interested in are sketching/drawing, modern + gothic architectural styles, beautiful women with beautiful hair 😊😊😊 (my lovely art muses) = the human form, and water!!!
+
+	The mechanics/game genres that I am most interested in are point-and-clicks and open-world exploration!
+
+2. Bryant Dai also likes a variety of game genres that are similar to me (story, fps, RPGS). He also likes Genshin and draws stylized work like me! Furthermore, he appreciates the details in game aesthetics.
+
+3. We have some overlap for FPS games and though I've never played Beat Saber, I think rhythm games are interesting.
+
 
 
 ### Activity 2
