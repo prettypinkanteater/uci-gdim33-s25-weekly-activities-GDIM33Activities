@@ -17,7 +17,4 @@
 
 ## W3
 
-### Activity 1
-<img width="1292" height="1131" alt="image" src="https://github.com/user-attachments/assets/4efa6794-2166-4cc9-94af-d07960d2951d" />
-
 ### Activity 2
