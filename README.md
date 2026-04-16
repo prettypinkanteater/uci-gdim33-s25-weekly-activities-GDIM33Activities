@@ -16,6 +16,8 @@
 <img width="960" height="720" alt="GDIM 33 Break-down (1)" src="https://github.com/user-attachments/assets/e6fe024c-86f1-4e80-a2e2-31916bbcd4d9" />
 
 ## W2
-Write your W2 Devlog here.
 
-Continue adding additional headers below this one for future weeks and future activities.
+### Activity 1
+<img width="1292" height="1131" alt="image" src="https://github.com/user-attachments/assets/1e094c6d-b39a-4c99-83d0-a5305e82ab84" />
+
+### Activity 2
