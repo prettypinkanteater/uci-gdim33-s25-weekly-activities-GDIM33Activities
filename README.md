@@ -21,3 +21,10 @@
 <img width="1292" height="1131" alt="image" src="https://github.com/user-attachments/assets/1e094c6d-b39a-4c99-83d0-a5305e82ab84" />
 
 ### Activity 2
+1. It is advantageous to save the event name as a scene variable so that other graphs, not only the state machine, can access it to trigger it.
+2. I used one Debug.Log() to test if the transition from the explore to dialogue state occured.
+
+3 and 4 because they're pretty similar: 
+
+The Set Cursor Lock State is relevant to my Vertical Slice because I have a Papers, please-like game that will have two primary game states. Specifically, this means the body examination stage to identify anomalies on NPCs and the dialogue stage. Both stages will allow for different behaviors, like the cursor being locked during dialogue and it being unlocked during examination so that the player can click on body parts to investigate. An additional example to state-dependant behaviors includes certain UI being visible, like the dialogue box in the dialogue state and the rotate body buttons during the examination stage.
+
