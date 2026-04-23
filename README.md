@@ -28,3 +28,15 @@
 
 The Set Cursor Lock State is relevant to my Vertical Slice because I have a Papers, please-like game that will have two primary game states. Specifically, this means the body examination stage to identify anomalies on NPCs and the dialogue stage. Both stages will allow for different behaviors, like the cursor being locked during dialogue and it being unlocked during examination so that the player can click on body parts to investigate. An additional example to state-dependant behaviors includes certain UI being visible, like the dialogue box in the dialogue state and the rotate body buttons during the examination stage.
 
+## W3
+
+### Activity 1
+What is playable in my build right now is dialogue with the patient NPC and change of game state indication. Although I omitted the initial dialogue in my breakdown, I added it just to quickly test state transitions.
+
+My goals are to see if the dialogue advance properly.
+
+Team Members: Nolan Burns, Lawrence Li, Bryant Dai, and Brendan Johnston
+
+
+
+
