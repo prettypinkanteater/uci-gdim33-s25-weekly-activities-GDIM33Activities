@@ -42,3 +42,8 @@ Team Members: Me, Lawrence Li, Bryant Dai
 - name tag not resizing properly
 - start game less suddenly
 
+### Activity 2
+1. Yes a writer could add more dialogue to this setup by creating more dialogue node scriptable objects.
+2. The limit that there is to the number of dialogue nodes that the writer could create would possibly be any new features that require more information based on displayed dialogue. An example would be the name of the current character talking as a member variable of the Dialogue Node class that could be accessed and displayed as it changes.
+3. The purpose of the "Regenerate Nodes" button is to refresh the nodes avaliable/visible in Graphs, particularly user created ones.
+
