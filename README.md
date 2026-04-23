@@ -35,8 +35,10 @@ What is playable in my build right now is dialogue with the patient NPC and chan
 
 My goals are to see if the dialogue advance properly.
 
-Team Members: Nolan Burns, Lawrence Li, Bryant Dai, and Brendan Johnston
+Team Members: Me, Lawrence Li, Bryant Dai
 
+#### Playtesting Notes
 
-
+- name tag not resizing properly
+- start game less suddenly
 
