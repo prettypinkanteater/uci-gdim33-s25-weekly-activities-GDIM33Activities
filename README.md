@@ -47,3 +47,17 @@ Team Members: Me, Lawrence Li, Bryant Dai
 2. The limit that there is to the number of dialogue nodes that the writer could create would possibly be any new features that require more information based on displayed dialogue. An example would be the name of the current character talking as a member variable of the Dialogue Node class that could be accessed and displayed as it changes.
 3. The purpose of the "Regenerate Nodes" button is to refresh the nodes avaliable/visible in Graphs, particularly user created ones.
 
+## W4
+
+### Activity 1
+1. Animate Nail and play Particle System (reaction)
+	1. Create a Timeline GameObject with Playable Director Component, a new Timeline, and the corresponding Timeline Asset/Playable that will be attached to the component.
+	2. Attach nail gameobject to new Animation Track and record animation, play Timeline to proview.
+	3. Attach blood particle system gameobject to Activation Track and place it so that it starts playing at the end of the above animation, preview again to ensure it also works.
+2. Update total attributes marked at end of cutscene by communicating with the GameController using Timeline signals.
+	1. Add Signal Marker/Emitter to the end of the particle system track, create a corresponding new Signal Asset called "Nail Inserted", and a Signal Reciever component to the GameController gameobject. 
+	2. Create a new public method to Debug.Log that shit!!! in the GameController script and add it as the reaction method to test if the Signal is successfully set-up, this should Debug.Log a message if it works.
+	3. Change the reaction method to the method in the GameController that updates the amount of attributes marked and the UI showing this, if it works it should do just that.
+	
+
+
