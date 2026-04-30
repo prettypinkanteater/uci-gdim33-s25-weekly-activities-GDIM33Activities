@@ -58,6 +58,10 @@ Team Members: Me, Lawrence Li, Bryant Dai
 	1. Add Signal Marker/Emitter to the end of the particle system track, create a corresponding new Signal Asset called "Nail Inserted", and a Signal Reciever component to the GameController gameobject. 
 	2. Create a new public method to Debug.Log that shit!!! in the GameController script and add it as the reaction method to test if the Signal is successfully set-up, this should Debug.Log a message if it works.
 	3. Change the reaction method to the method in the GameController that updates the amount of attributes marked and the UI showing this, if it works it should do just that.
+
+### Activity 2
+I mostly tried to accomplish clicking and dragging of the nail :)
+Wasn't the most fruitful attempt but I learned some things about mouse position!
 	
 
 
