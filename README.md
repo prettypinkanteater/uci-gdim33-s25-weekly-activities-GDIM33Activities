@@ -64,4 +64,13 @@ I mostly tried to accomplish clicking and dragging of the nail :)
 Wasn't the most fruitful attempt but I learned some things about mouse position!
 	
 
+## W5
 
+### Activity 1
+1. The basic gameplay is more fully implemented. You can change to the examination state and consequently click on the patient to investigate suspicious attributes, rotate their body, "end" the exam, and identify them.
+1. [Link](https://pinkanteateraj.itch.io/gdim-33-vertical-slice-playtest-2)
+1. Do the buttons function appropriately. 
+
+#### Playtesting Notes
+- Disable attribute buttons once the end of examination occurs
+- Bring Galatea's body higher up to make the second attribute more visible
