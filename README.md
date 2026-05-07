@@ -74,3 +74,10 @@ Wasn't the most fruitful attempt but I learned some things about mouse position!
 #### Playtesting Notes
 - Disable attribute buttons once the end of examination occurs
 - Bring Galatea's body higher up to make the second attribute more visible
+
+### Activity 2
+1. The multiply setting of the blend node makes the resulting color darker + less saturated because the RGB values are floats and when floats are multipled, it results in lower floats.
+Because each float represents color channel's saturation, if the resulting color has lower RGB values, it will be less saturated. 
+1. If we use Multiply to combine Alpha values, the resulting value will be more transparent because, similarily to above, float multipication results in a lower number and in regards to the value of alpha, a more transparent look.
+1. The shader gets these UV values from the vertices on the Shiba mesh.
+1. Manipulating colors with math sounds ??? I am tired so not a large reaction. I already kind of knew about alpha/opacity because I've used image manipulation software before. At least math will be useful in the case I want to darken a color.
