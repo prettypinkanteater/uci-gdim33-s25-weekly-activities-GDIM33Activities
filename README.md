@@ -64,7 +64,7 @@ I mostly tried to accomplish clicking and dragging of the nail :)
 Wasn't the most fruitful attempt but I learned some things about mouse position!
 	
 
-## W5
+## W6
 
 ### Activity 1
 1. The basic gameplay is more fully implemented. You can change to the examination state and consequently click on the patient to investigate suspicious attributes, rotate their body, "end" the exam, and identify them.
@@ -81,3 +81,15 @@ Because each float represents color channel's saturation, if the resulting color
 1. If we use Multiply to combine Alpha values, the resulting value will be more transparent because, similarily to above, float multipication results in a lower number and in regards to the value of alpha, a more transparent look.
 1. The shader gets these UV values from the vertices on the Shiba mesh.
 1. Manipulating colors with math sounds ??? I am tired so not a large reaction. I already kind of knew about alpha/opacity because I've used image manipulation software before. At least math will be useful in the case I want to darken a color.
+
+## W7
+
+### teehee
+
+1. The data for the vertex color node comes from the Shiba mesh.
+2. The color on the shiba in step 3 is blended because of vertex interpolation blending the RGB values of each vertice in a polygon together together.
+3. The shiba is less detailed than the shiba rendered last week because the vertex color is more like a base color rather than painted details for a mesh. It can be useful for more simple meshes.
+4. There is a spot on the back leg that looks wrong compared to the surrounding vertex normals.
+5. Another piece of data I could imagine testing with the debug shader is whether or not the UV coordinates in vertices are accurate in relation to mesh texture. This would be helpful to see if the texture needs to be edited.
+6. There is an error in the lighting in step 5 because surface normals, in this case the ones on the Shiba's mesh and the light, are opposite facing angles. Getting the dot product would result in a negative product, which means the light logic essentially is rendered backwards because each vertex surface normal/direction is seen as its opposite.
+7. I think we set the blending mode to Additive because it adds RGBA values together to make colors more opaque with a higher alpha value and colorful with higher RGB values.
