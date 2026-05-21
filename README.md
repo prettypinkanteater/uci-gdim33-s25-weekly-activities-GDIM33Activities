@@ -93,3 +93,20 @@ Because each float represents color channel's saturation, if the resulting color
 5. Another piece of data I could imagine testing with the debug shader is whether or not the UV coordinates in vertices are accurate in relation to mesh texture. This would be helpful to see if the texture needs to be edited.
 6. There is an error in the lighting in step 5 because surface normals, in this case the ones on the Shiba's mesh and the light, are opposite facing angles. Getting the dot product would result in a negative product, which means the light logic essentially is rendered backwards because each vertex surface normal/direction is seen as its opposite.
 7. I think we set the blending mode to Additive because it adds RGBA values together to make colors more opaque with a higher alpha value and colorful with higher RGB values.
+
+## W8
+
+### Activity 1:
+1. I added a UI panel that appears once the shift ends. I plan to make this change colors with visual scripting based on shift quality asseessment!
+2. [Link](https://pinkanteateraj.itch.io/vertical-slice-playtest-2)
+3. Is the core loop smooth?
+
+#### Notes:
+- uh resize ui / emphasize neeed to fullscreen 1 (<- bryant hijacked my devlog and he forcibly the numerical characteer "1". this is without my permission and on MY property.)
+- remove button text on nail pile button lol
+- if investigating first attribute and dragging nail to second one (uninvestigated), can skip investigation phase
+- add differentation of dialogue speaker
+- add visual/textual cues to guide player to understand what to do - a "tutorial" patient 
+
+### Activity 2A:
+
