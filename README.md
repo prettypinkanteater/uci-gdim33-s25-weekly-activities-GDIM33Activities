@@ -109,4 +109,19 @@ Because each float represents color channel's saturation, if the resulting color
 - add visual/textual cues to guide player to understand what to do - a "tutorial" patient 
 
 ### Activity 2A:
+Sorry I'm still tired even submitting this late and I was busy again so I can't be confident all of these are correct...
+1. We are utilizing the stencil buffer to determine when to render the Outline and Cel shading.
+2. I didn't really answer this while working on it so hopefully it's ok to answer after I've finished all the steps. Anyways, from my point of progression, I think the object that is being drawn twice is the Shiba. It is being drawn twice because the stencil buffer is keeping the shiba's drawing and the DrawOpaqueObjects pass is also keeping it.
+3. Sorry I cannot think probably but likely something with the Stencil Buffer pass!
+4. Anything that is not greater than 1.
+5. We add instead of multiply to get the colored cel shading by adding the color to the light logic.
+6. Changing the layer the Shiba is on enables/disables the outline effect because the Renderer feature only draws for objects with that specific layer.
+7. Setting the shadow color to white removes the lighting because there is genuinely no "darkness" in the shade, white.
+8. Maybe? Because the material is a project asset so the Instance, the copy, may lead to having to run more logic the next frame rendered.
 
+#### Notes:
+-  Instance - copy!
+	- Reference value changes property with vs at runtime
+- Variable - og!
+- Modifying original settings during runtime
+- Runtime is when game is playing
