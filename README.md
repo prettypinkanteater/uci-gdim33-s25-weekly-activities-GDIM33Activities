@@ -125,3 +125,13 @@ Sorry I'm still tired even submitting this late and I was busy again so I can't 
 - Variable - og!
 - Modifying original settings during runtime
 - Runtime is when game is playing
+
+## W9
+Subnautica is our game!
+
+#### System 1: Water Basic Color
+Change the value of the full-screen post-processing color filter depending on the player's position in the world.
+
+#### System 2: Transition Effects Between Water and Vacuum Spaces
+(not stealing bryant's words, despite his eagerness to commit his changes before me, this is just how english works unfortunately) 
+This is also a full-screen post-processing filter that primarily uses an animated texture. It is also activated/deactivated by the player's environment potentilaly through collision.
