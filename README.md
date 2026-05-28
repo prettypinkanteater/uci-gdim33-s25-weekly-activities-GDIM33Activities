@@ -127,6 +127,7 @@ Sorry I'm still tired even submitting this late and I was busy again so I can't 
 - Runtime is when game is playing
 
 ## W9
+### Activity 1
 Subnautica is our game!
 
 #### System 1: Water Basic Color
@@ -135,3 +136,7 @@ Change the value of the full-screen post-processing color filter depending on th
 #### System 2: Transition Effects Between Water and Vacuum Spaces
 (not stealing bryant's words, despite his eagerness to commit his changes before me, this is just how english works unfortunately) 
 This is also a full-screen post-processing filter that primarily uses an animated texture. It is also activated/deactivated by the player's environment potentilaly through collision.
+
+### Activity 2
+<img width="1454" height="1024" alt="image" src="https://github.com/user-attachments/assets/fcc2f9ec-539b-498c-90f2-479d67d01233" />
+I started my outline shader graph and learned that I need to alter the in-class activity's graph for a 2D sprite since the shiba one uses the shiba's mesh, as it is a 3D object.
