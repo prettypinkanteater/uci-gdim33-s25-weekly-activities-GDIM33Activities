@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: RedMaterial
-  m_Shader: {fileID: -6465566751694194690, guid: 939a7d2b61e6140dbabff01d1cbe8eaf,
+  m_Shader: {fileID: -6465566751694194690, guid: f47ce415f2081e945894c1c64fc9734a,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -115,6 +115,7 @@ Material:
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
+    - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _Smoothness: 0.5
