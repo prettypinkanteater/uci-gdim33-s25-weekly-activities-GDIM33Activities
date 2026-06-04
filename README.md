@@ -164,3 +164,4 @@ In that vein, planning well can help you see the scope of your project because y
 is realistic or not. 
 
 ### Activity 3
+I started figuring out triggering my shader/material visual effects by looking into Unity documentation and attempting to add methods to the Nail script!
