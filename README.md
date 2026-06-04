@@ -140,3 +140,27 @@ This is also a full-screen post-processing filter that primarily uses an animate
 ### Activity 2
 <img width="1454" height="1024" alt="image" src="https://github.com/user-attachments/assets/fcc2f9ec-539b-498c-90f2-479d67d01233" />
 I started my outline shader graph and learned that I need to alter the in-class activity's graph for a 2D sprite since the shiba one uses the shiba's mesh, as it is a 3D object.
+
+## W10
+### Activity 1
+New is the nail insertion sound effect triggered by the timeline!
+
+[Link](https://pinkanteateraj.itch.io/last-playtest)
+
+My goal is to see if the states and UI visibility work as intended.
+
+#### Playtest Feedback
+- Add Ram Soberts
+- Fix nail positioning
+
+### Activity 2
+Identify the game mechanics/loop, focusing on CORE mechanics/features needed. From this, also identify the different primary objects, that will have classes/scripts, involved
+with actualizing/implementing the mechanics. Some examples are players, points, enemies, or interactable objects. Then, identify 
+the variables, components, methods, and communication between objects that can be used to support the mechanical functions.
+
+Use bubble charts to visualize/note them down for retention + development reference. This helps you understand the concrete things you must actually create and develop in order to build your game.
+
+In that vein, planning well can help you see the scope of your project because you're able to more accurately assess the workload/depth of tasks required and understand if completion
+is realistic or not. 
+
+### Activity 3
